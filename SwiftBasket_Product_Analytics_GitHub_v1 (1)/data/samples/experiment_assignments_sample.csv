@@ -1,0 +1,101 @@
+assignment_id,experiment_id,user_id,variant,assigned_at,first_exposed_at,eligibility_reason
+1,early_fee_transparency_v1,10,control,2026-07-26 20:52:26+00:00,,new_serviceable_user
+2,early_fee_transparency_v1,32,treatment,2026-07-01 17:07:50+00:00,,new_serviceable_user
+3,early_fee_transparency_v1,34,control,2026-07-05 16:56:35+00:00,,new_serviceable_user
+4,early_fee_transparency_v1,58,control,2026-07-30 08:33:44+00:00,,new_serviceable_user
+5,early_fee_transparency_v1,60,treatment,2026-07-16 08:21:45+00:00,,new_serviceable_user
+6,early_fee_transparency_v1,66,control,2026-07-23 20:11:50+00:00,2026-07-25 04:42:49+00:00,new_serviceable_user
+7,early_fee_transparency_v1,70,treatment,2026-07-27 08:54:22+00:00,,new_serviceable_user
+8,early_fee_transparency_v1,82,control,2026-07-07 20:03:34+00:00,,new_serviceable_user
+9,early_fee_transparency_v1,99,treatment,2026-07-23 12:59:05+00:00,,new_serviceable_user
+10,early_fee_transparency_v1,101,treatment,2026-07-07 22:11:39+00:00,2026-07-07 22:22:58+00:00,new_serviceable_user
+11,early_fee_transparency_v1,102,treatment,2026-07-08 08:26:45+00:00,2026-07-15 21:11:53+00:00,new_serviceable_user
+12,early_fee_transparency_v1,104,control,2026-07-08 11:36:16+00:00,,new_serviceable_user
+13,early_fee_transparency_v1,117,treatment,2026-07-27 19:50:48+00:00,2026-07-27 19:56:11+00:00,new_serviceable_user
+14,early_fee_transparency_v1,126,control,2026-07-19 16:38:35+00:00,2026-07-19 17:09:09+00:00,new_serviceable_user
+15,early_fee_transparency_v1,130,treatment,2026-07-26 13:43:47+00:00,,new_serviceable_user
+16,early_fee_transparency_v1,132,treatment,2026-07-19 17:54:40+00:00,,new_serviceable_user
+17,early_fee_transparency_v1,151,control,2026-07-30 22:55:11+00:00,2026-07-30 22:59:33+00:00,new_serviceable_user
+18,early_fee_transparency_v1,156,control,2026-07-22 14:50:34+00:00,,new_serviceable_user
+19,early_fee_transparency_v1,161,control,2026-07-23 17:55:05+00:00,,new_serviceable_user
+20,early_fee_transparency_v1,162,treatment,2026-07-28 10:56:16+00:00,2026-08-07 19:28:09+00:00,new_serviceable_user
+21,early_fee_transparency_v1,167,control,2026-07-11 12:45:11+00:00,2026-07-12 17:07:24+00:00,new_serviceable_user
+22,early_fee_transparency_v1,174,control,2026-07-27 16:00:51+00:00,2026-07-27 16:29:50+00:00,new_serviceable_user
+23,early_fee_transparency_v1,181,treatment,2026-07-08 08:24:06+00:00,,new_serviceable_user
+24,early_fee_transparency_v1,185,treatment,2026-07-15 20:00:52+00:00,,new_serviceable_user
+25,early_fee_transparency_v1,188,treatment,2026-07-25 10:12:46+00:00,,new_serviceable_user
+26,early_fee_transparency_v1,190,control,2026-07-02 11:04:35+00:00,,new_serviceable_user
+27,early_fee_transparency_v1,191,treatment,2026-07-29 10:52:21+00:00,,new_serviceable_user
+28,early_fee_transparency_v1,209,control,2026-07-13 14:41:37+00:00,,new_serviceable_user
+29,early_fee_transparency_v1,213,treatment,2026-07-16 21:06:34+00:00,,new_serviceable_user
+30,early_fee_transparency_v1,218,treatment,2026-07-11 18:06:26+00:00,,new_serviceable_user
+31,early_fee_transparency_v1,219,treatment,2026-07-20 20:33:53+00:00,2026-08-06 03:02:38+00:00,new_serviceable_user
+32,early_fee_transparency_v1,226,control,2026-07-22 17:35:06+00:00,2026-07-22 17:40:14+00:00,new_serviceable_user
+33,early_fee_transparency_v1,231,control,2026-07-24 10:34:44+00:00,,new_serviceable_user
+34,early_fee_transparency_v1,254,treatment,2026-07-29 13:13:59+00:00,2026-08-05 23:18:06+00:00,new_serviceable_user
+35,early_fee_transparency_v1,260,control,2026-07-21 22:52:26+00:00,2026-07-21 22:59:22+00:00,new_serviceable_user
+36,early_fee_transparency_v1,263,treatment,2026-07-24 19:37:16+00:00,,new_serviceable_user
+37,early_fee_transparency_v1,265,control,2026-07-16 18:39:59+00:00,,new_serviceable_user
+38,early_fee_transparency_v1,267,control,2026-07-16 08:42:24+00:00,,new_serviceable_user
+39,early_fee_transparency_v1,271,treatment,2026-07-11 16:50:26+00:00,,new_serviceable_user
+40,early_fee_transparency_v1,272,control,2026-07-20 22:26:58+00:00,,new_serviceable_user
+41,early_fee_transparency_v1,284,treatment,2026-07-01 15:03:50+00:00,2026-07-03 05:09:49+00:00,new_serviceable_user
+42,early_fee_transparency_v1,289,treatment,2026-07-31 18:50:07+00:00,,new_serviceable_user
+43,early_fee_transparency_v1,295,control,2026-07-27 22:49:40+00:00,,new_serviceable_user
+44,early_fee_transparency_v1,296,control,2026-07-11 18:22:09+00:00,,new_serviceable_user
+45,early_fee_transparency_v1,307,treatment,2026-07-11 13:35:19+00:00,,new_serviceable_user
+46,early_fee_transparency_v1,313,control,2026-07-12 11:14:49+00:00,,new_serviceable_user
+47,early_fee_transparency_v1,321,treatment,2026-07-13 17:43:44+00:00,,new_serviceable_user
+48,early_fee_transparency_v1,328,control,2026-07-27 10:40:05+00:00,,new_serviceable_user
+49,early_fee_transparency_v1,332,treatment,2026-07-26 08:43:24+00:00,2026-08-07 17:57:11+00:00,new_serviceable_user
+50,early_fee_transparency_v1,336,control,2026-07-15 16:40:38+00:00,,new_serviceable_user
+51,early_fee_transparency_v1,351,treatment,2026-07-22 13:46:31+00:00,,new_serviceable_user
+52,early_fee_transparency_v1,379,control,2026-07-01 16:58:33+00:00,,new_serviceable_user
+53,early_fee_transparency_v1,381,treatment,2026-07-28 12:09:28+00:00,,new_serviceable_user
+54,early_fee_transparency_v1,390,control,2026-07-04 18:56:37+00:00,,new_serviceable_user
+55,early_fee_transparency_v1,397,control,2026-07-18 16:47:34+00:00,2026-07-18 17:17:22+00:00,new_serviceable_user
+56,early_fee_transparency_v1,400,treatment,2026-07-14 16:48:21+00:00,,new_serviceable_user
+57,early_fee_transparency_v1,409,treatment,2026-07-25 16:56:29+00:00,,new_serviceable_user
+58,early_fee_transparency_v1,429,treatment,2026-07-29 11:15:51+00:00,,new_serviceable_user
+59,early_fee_transparency_v1,430,treatment,2026-07-25 08:03:40+00:00,,new_serviceable_user
+60,early_fee_transparency_v1,434,treatment,2026-07-26 16:14:32+00:00,2026-07-26 16:44:45+00:00,new_serviceable_user
+61,early_fee_transparency_v1,438,control,2026-07-01 12:36:29+00:00,,new_serviceable_user
+62,early_fee_transparency_v1,442,control,2026-07-06 10:03:02+00:00,2026-07-06 10:33:55+00:00,new_serviceable_user
+63,early_fee_transparency_v1,443,control,2026-07-26 08:00:25+00:00,,new_serviceable_user
+64,early_fee_transparency_v1,456,treatment,2026-07-01 21:57:25+00:00,2026-07-01 22:14:23+00:00,new_serviceable_user
+65,early_fee_transparency_v1,460,treatment,2026-07-22 20:41:42+00:00,,new_serviceable_user
+66,early_fee_transparency_v1,480,treatment,2026-07-07 11:13:02+00:00,,new_serviceable_user
+67,early_fee_transparency_v1,490,control,2026-07-22 11:45:01+00:00,2026-07-22 11:59:02+00:00,new_serviceable_user
+68,early_fee_transparency_v1,519,treatment,2026-07-25 11:17:57+00:00,2026-08-07 22:38:59+00:00,new_serviceable_user
+69,early_fee_transparency_v1,524,treatment,2026-07-19 19:25:19+00:00,2026-07-19 19:56:05+00:00,new_serviceable_user
+70,early_fee_transparency_v1,537,treatment,2026-07-22 08:49:35+00:00,,new_serviceable_user
+71,early_fee_transparency_v1,540,treatment,2026-07-27 16:41:01+00:00,,new_serviceable_user
+72,early_fee_transparency_v1,541,control,2026-07-03 18:43:06+00:00,,new_serviceable_user
+73,early_fee_transparency_v1,551,control,2026-07-05 21:42:12+00:00,,new_serviceable_user
+74,early_fee_transparency_v1,556,treatment,2026-07-22 14:08:07+00:00,,new_serviceable_user
+75,early_fee_transparency_v1,560,treatment,2026-07-25 17:21:33+00:00,,new_serviceable_user
+76,early_fee_transparency_v1,562,control,2026-07-12 12:14:52+00:00,,new_serviceable_user
+77,early_fee_transparency_v1,565,control,2026-07-07 12:01:24+00:00,2026-07-07 12:11:14+00:00,new_serviceable_user
+78,early_fee_transparency_v1,575,treatment,2026-07-22 21:44:27+00:00,2026-07-22 21:51:35+00:00,new_serviceable_user
+79,early_fee_transparency_v1,576,control,2026-07-30 18:37:45+00:00,,new_serviceable_user
+80,early_fee_transparency_v1,581,treatment,2026-07-25 14:06:06+00:00,2026-07-25 14:26:37+00:00,new_serviceable_user
+81,early_fee_transparency_v1,584,control,2026-07-08 10:03:07+00:00,,new_serviceable_user
+82,early_fee_transparency_v1,588,control,2026-07-22 14:16:32+00:00,2026-07-22 14:29:41+00:00,new_serviceable_user
+83,early_fee_transparency_v1,594,treatment,2026-07-23 16:05:19+00:00,,new_serviceable_user
+84,early_fee_transparency_v1,604,control,2026-07-21 11:41:07+00:00,,new_serviceable_user
+85,early_fee_transparency_v1,611,control,2026-07-20 11:22:42+00:00,,new_serviceable_user
+86,early_fee_transparency_v1,622,control,2026-07-22 18:10:53+00:00,,new_serviceable_user
+87,early_fee_transparency_v1,648,treatment,2026-07-20 15:56:33+00:00,,new_serviceable_user
+88,early_fee_transparency_v1,650,control,2026-07-08 11:38:00+00:00,2026-07-08 12:03:37+00:00,new_serviceable_user
+89,early_fee_transparency_v1,654,treatment,2026-07-06 21:11:05+00:00,,new_serviceable_user
+90,early_fee_transparency_v1,656,treatment,2026-07-15 12:44:02+00:00,,new_serviceable_user
+91,early_fee_transparency_v1,662,treatment,2026-07-08 12:20:43+00:00,2026-07-08 12:46:23+00:00,new_serviceable_user
+92,early_fee_transparency_v1,663,control,2026-07-14 17:16:00+00:00,2026-07-14 17:17:17+00:00,new_serviceable_user
+93,early_fee_transparency_v1,698,treatment,2026-07-04 15:51:36+00:00,,new_serviceable_user
+94,early_fee_transparency_v1,709,treatment,2026-07-21 16:16:28+00:00,,new_serviceable_user
+95,early_fee_transparency_v1,720,control,2026-07-31 18:08:40+00:00,,new_serviceable_user
+96,early_fee_transparency_v1,738,treatment,2026-07-02 20:34:07+00:00,,new_serviceable_user
+97,early_fee_transparency_v1,742,treatment,2026-07-02 12:14:13+00:00,2026-07-02 12:43:12+00:00,new_serviceable_user
+98,early_fee_transparency_v1,752,treatment,2026-07-29 20:57:31+00:00,2026-07-29 21:26:33+00:00,new_serviceable_user
+99,early_fee_transparency_v1,764,control,2026-07-26 19:25:29+00:00,,new_serviceable_user
+100,early_fee_transparency_v1,768,treatment,2026-07-28 19:36:04+00:00,,new_serviceable_user
