@@ -1,0 +1,24 @@
+{
+  "checks_passed": 18,
+  "users": 80000,
+  "sessions": 193269,
+  "events": 913788,
+  "checkouts": 25690,
+  "payments": 16879,
+  "orders": 14895,
+  "seed": 42,
+  "formats": {
+    "users": ".csv",
+    "stores": ".csv",
+    "products": ".csv",
+    "sessions": ".csv",
+    "events": ".csv",
+    "searches": ".csv",
+    "checkout_attempts": ".csv",
+    "payment_attempts": ".csv",
+    "orders": ".csv",
+    "order_items": ".csv",
+    "order_status_history": ".csv",
+    "experiment_assignments": ".csv"
+  }
+}

@@ -1,0 +1,9 @@
+numpy>=2.3,<3
+pandas>=2.2,<4
+PyYAML>=6.0,<7
+pyarrow>=18,<26
+scipy>=1.14,<2
+matplotlib>=3.9,<4
+psycopg2-binary>=2.9,<3
+SQLAlchemy>=2.0,<3
+tqdm>=4.66,<5

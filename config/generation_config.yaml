@@ -1,0 +1,62 @@
+project:
+  name: swiftbasket
+  synthetic_data: true
+  random_seed: 42
+  currency: INR
+  timezone: UTC
+
+timeline:
+  acquisition_start: "2026-01-01"
+  acquisition_end: "2026-07-31"
+  event_end: "2026-08-07"
+  problem_start: "2026-04-15"
+  experiment_start: "2026-07-01"
+  experiment_end: "2026-07-31"
+
+scale:
+  users: 80000
+  products: 600
+  stores_per_city: 3
+
+cities:
+  - Bengaluru
+  - Delhi NCR
+  - Mumbai
+  - Hyderabad
+  - Pune
+
+platform_distribution:
+  Android: 0.78
+  iOS: 0.22
+
+baseline_channel_distribution:
+  organic: 0.32
+  google_ads: 0.24
+  meta_ads: 0.18
+  referral: 0.16
+  affiliate: 0.10
+
+post_change_channel_distribution:
+  organic: 0.28
+  google_ads: 0.21
+  meta_ads: 0.30
+  referral: 0.13
+  affiliate: 0.08
+
+user_attributes:
+  serviceable_probability: 0.93
+  signup_completion_probability: 0.86
+
+commerce:
+  baseline_handling_fee: 5.00
+  revised_handling_fee: 19.00
+  free_delivery_threshold: 399.00
+  minimum_order_value: 99.00
+
+experiment:
+  id: early_fee_transparency_v1
+  allocation:
+    control: 0.50
+    treatment: 0.50
+  eligible_user_type: new_user
+  eligible_cart_maximum: 399.00
