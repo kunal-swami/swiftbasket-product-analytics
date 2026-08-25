@@ -1,3 +1,0 @@
-variant,assigned_users,exposed_users,converted_users,conversion_rate,exposure_rate
-control,4916,1559,518,0.10537021969080554,0.31712774613506917
-treatment,4891,1609,526,0.10754446943365364,0.3289715804538949
